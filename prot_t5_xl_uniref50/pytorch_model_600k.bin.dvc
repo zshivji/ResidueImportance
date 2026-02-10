@@ -1,0 +1,5 @@
+outs:
+- md5: c6e11f2348f27cbc4bfff4cb646ef13e
+  size: 11275562604
+  hash: md5
+  path: pytorch_model_600k.bin
